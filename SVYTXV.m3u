@@ -1,0 +1,854 @@
+#EXTM3U
+
+
+
+#EXTINF:-1,ATV
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+
+
+#EXTINF:-1,ATV HD
+http://147.135.139.2:8000/live/mohamedsaleh/mohamedsaleh/626.ts
+
+
+#EXTINF:-1,STAR TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+
+
+#EXTINF:-1,StarTV HD
+
+http://lcgid8xu.rocketcdn.com/startvhd.stream_240p/chunklist.m3u8
+
+
+#EXTINF:-1,STAR TV HD
+http://147.135.139.2:8000/live/mohamedsaleh/mohamedsaleh/633.ts
+
+
+#EXTINF:-1,KANALD HD
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+
+
+#EXTINF:-1,KANAL D (2)
+http://soledge13.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
+
+
+#EXTINF:-1,KANAL D (3)
+http://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
+
+
+#EXTINF:-1,KANAL D (4)
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+
+
+#EXTINF:-1,KANAL D (5)
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+
+
+#EXTINF:-1,SHOW TV
+http://umutiptv.cf/ciner.php?kanal=show&type=m3u8
+
+
+#EXTINF:-1,FOX TV
+http://umutiptv.cf/fox.php?kanal=foxtr&type=m3u8
+
+
+#EXTINF:-1,FOX TV HD
+http://147.135.139.2:8000/live/mohamedsaleh/mohamedsaleh/624.ts
+
+
+#EXTINF:-1,TV8
+http://umutiptv.cf/acun.php?kanal=tv8&type=m3u8
+
+
+#EXTINF:-1,TV8
+http://147.135.139.2:8000/live/mohamedsaleh/mohamedsaleh/629.ts
+
+
+#EXTINF:-1,KANAL 7
+http://178.132.6.97:8080/Kanal71/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1,TV8 FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23324
+
+
+#EXTINF:-1,TV8 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23323
+
+
+#EXTINF:-1,TV8.5 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23322
+
+
+#EXTINF:-1,TRT1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,TRT1 HD YEDEK 1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_900_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,TRTTÜRK HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+
+
+#EXTINF:-1,TRTHABER HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
+
+
+
+#EXTINF:-1,TRTARAPÇA
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_500_av-b.m3u8?sd=10&rebase=on&hdntl
+
+
+#EXTINF:-1,TRTOKUL 
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,TRTDIYANET
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/index_1200_av-p.m3u8?sd=10&rebase=on&hdntl
+
+
+
+#EXTINF:-1,TRT1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+
+
+#EXTINF:-1,A HABER HD
+http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
+
+
+#EXTINF:-1,360 TV
+http://umutiptv.cf/dailymotion.php?kanal=tv360&type=m3u8
+
+
+#EXTINF:-1,ULUSAL KANAL
+http://184.173.181.2:1935/8132/8132/playlist.m3u8
+
+
+#EXTINF:-1,CNNTÜRK
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+
+
+#EXTINF:-1,KANALURFA
+rtmp://stream.taksimbilisim.com/kanalurfa//bant1
+
+
+#EXTINF:-1,GÜNEYDOÐU TV
+rtmp://stream2.taksimbilisim.com/gtv/bant1
+
+
+#EXTINF:-1,BEN TV
+rtmp://kanalben.cubecdn.net/live//kanalben1
+
+
+#EXTINF:-1,TRT ÇOCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8
+
+
+#EXTINF:-1,TJK TV
+http://tjktv.ercdn.net/tjktv_576p.m3u8
+
+
+#EXTINF:-1,TAY TV
+http://live.netd.com.tr/S2/HLS_LIVE/tay/playlist.m3u8 
+
+
+#EXTINF:-1,SEMEKAND TV
+rtmp://semerkandglb.mediatriple.net/semerkandliveedge//semerkand1
+
+
+#EXTINF:-1,TBMM
+http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/index_1200_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,TRTKURDI HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+
+
+#EXTINF:-1,TRTHABER HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+
+
+#EXTINF:-1,TRTMÜZIK HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+
+
+
+#EXTINF:0,DREAMTURK TV
+http://live.netd.com.tr/S2/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1,TRT SPOR HD
+https://trt-live.ercdn.net/trtspor/trtspor_1.m3u8
+
+
+#EXTINF:-1,TRT SPOR SD
+https://trt-live.ercdn.net/trtspor/trtspor_2.m3u8
+
+
+#EXTINF:-1,A SPOR
+http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
+
+
+#EXTINF:-1,FB TV
+http://umutiptv.cf/dailymotion.php?kanal=fbtv&type=m3u8
+
+
+#EXTINF:-1,GS TV
+http://umutiptv.cf/dailymotion.php?kanal=gstv&type=m3u8
+
+
+#EXTINF:-1,BJK TV
+http://umutiptv.cf/dailymotion.php?kanal=bjktv&type=m3u8
+
+
+#EXTINF:-1,YABAN TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist.m3u8
+
+
+
+#EXTINF:-1,TELE 1
+http://umutiptv.cf/dailymotion.php?kanal=tele1&type=m3u8
+
+
+#EXTINF:-1,CNN TURK HD
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+
+
+#EXTINF:-1,CNN TURK SD (1)
+http://media.netd.com.tr/S2/HLS_LIVE/cnn_turk/index.m3u8
+
+
+#EXTINF:-1,CNN TURK SD (2)
+https://srvc.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+
+
+#EXTINF:-1,HABER GLOBAL
+http://mn-nl.mncdn.com/ezcdn_Rlb6Y0obFxgx/Rlb6Y0obFxgx_1/chunklist.m3u8
+
+
+#EXTINF:-1,TRT HABER
+https://trt-live.ercdn.net/trthaber/trthaber_1.m3u8
+
+
+#EXTINF:-1,24 TV
+http://umutiptv.cf/dailymotion.php?kanal=24tv&type=m3u8
+
+
+#EXTINF:-1,HABER TURK
+http://umutiptv.cf/ciner.php?kanal=haberturk&type=m3u8
+
+
+#EXTINF:-1,TGRT HABER
+https://5ab9557ae2fa9.streamlock.net/tgrt_haber/amlst:live-25/chunklist_w1011305533_b1200096.m3u8
+
+
+#EXTINF:-1,A HABER
+http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
+
+
+#EXTINF:-1,TURKIYEM TV
+https://waw1.artiyerelmedya.net:446/turkiyemtv/bant1/chunks.m3u8
+
+
+#EXTINF:-1,TURKIYEM TV YEDEK
+http://yerelmedya.tv:1935/turkiyemtv/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,360 TV
+http://umutiptv.cf/dailymotion.php?kanal=tv360&type=m3u8
+
+
+#EXTINF:-1,STAR TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+
+
+#EXTINF:-1,ATV
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+
+
+#EXTINF:-1,KANAL D (1)
+http://soledge13.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
+
+
+#EXTINF:-1,KANAL D (2)
+http://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
+
+
+#EXTINF:-1,KANAL D (3)
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+
+
+#EXTINF:-1,KANAL D (4)
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+
+
+#EXTINF:-1,TRT 1
+https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-p.m3u8
+
+
+#EXTINF:-1,TLC
+http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+
+
+#EXTINF:-1,TEVE 2
+http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+
+
+#EXTINF:-1,D MAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+
+
+#EXTINF:-1,KANAL 7
+http://178.132.6.97:8080/Kanal71/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1,SHOW MAX
+https://mn-nl.mncdn.com/showmax/smil:showmax.smil/chunklist_b1264000.m3u8
+
+
+#EXTINF:-1,EURO STAR
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+
+
+#EXTINF:-1,UCAN KUS TV
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+
+
+#EXTINF:-1,FLASH TV
+http://98.142.98.125:1935/flashtv/flashtvmob/chunklist.m3u8
+
+
+#EXTINF:-1,BEYAZ TV
+http://umutiptv.cf/dailymotion.php?kanal=beyaztv&type=m3u8
+
+
+#EXTINF:-1,TRT TURK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-p.m3u8
+
+
+#EXTINF:-1,TRT COCUK
+https://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8
+
+
+#EXTINF:-1,TRT OKUL
+https://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8
+
+
+#EXTINF:-1,TRT AVAZ
+https://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_1200_av-p.m3u8
+
+
+#EXTINF:-1,TRT MUZIK HD (1)
+https://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_1200_av-p.m3u8
+
+
+#EXTINF:-1,TRT MUZIK HD (2)
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+
+
+#EXTINF:-1,KRAL ARABESK
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+
+
+#EXTINF:-1,KRAL PERFORMANS
+https://kh2zh6sy.rocketcdn.com/kraldijital-konsertv.smil/chunklist_b2328000.m3u8
+
+
+#EXTINF:-1,KRAL HD
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+
+
+#EXTINF:-1,KRAL AKUSTIK
+https://dmu3sqri.rocketcdn.com/kraldijital-akustiktv.smil/chunklist_b2328000.m3u8
+
+
+#EXTINF:-1,KRAL KONSER
+https://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist_b2328000.m3u8
+
+
+#EXTINF:-1,KRAL WORLD
+http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist.m3u8
+
+
+#EXTINF:-1,POWER TURK HD
+https://mggwfglv.rocketcdn.com/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
+
+
+#EXTINF:-1,POWER TURK SD
+https://mggwfglv.rocketcdn.com/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
+
+
+#EXTINF:-1,POWER HD
+https://hlep0q3b.rocketcdn.com/powerhd.smil/chunklist_b2650000_sltur.m3u8
+
+
+#EXTINF:-1,POWER SD
+https://hlep0q3b.rocketcdn.com/powerhd.smil/chunklist_b1428000_sltur.m3u8
+
+
+#EXTINF:-1,DREAM TURK HD
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/index.m3u8
+
+
+#EXTINF:-1,DREAM TURK SD
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+
+
+#EXTINF:-1,DREAM TV HD
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/index.m3u8
+
+
+#EXTINF:-1,DREAM TV SD
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+
+#EXTINF:-1,DREAM TV SD (2)
+https://live.dogannet.tv/NP2/DREAMTV/HLS/track_4_1000/playlist.m3u8
+
+
+#EXTINF:-1,NUMBER ONE TURK
+http://umutiptv.cf/dailymotion.php?kanal=nr1turk&type=m3u8
+
+
+#EXTINF:-1,NUMBER ONE DAMAR
+http://umutiptv.cf/dailymotion.php?kanal=nr1damar&type=m3u8
+
+
+#EXTINF:-1,NUMBER ONE ASK
+http://umutiptv.cf/dailymotion.php?kanal=nr1ask&type=m3u8
+
+
+#EXTINF:-1,NUMBER ONE TV
+http://umutiptv.cf/dailymotion.php?kanal=nr1&type=m3u8
+
+
+#EXTINF:-1,NUMBER ONE DANCE
+http://umutiptv.cf/dailymotion.php?kanal=nr1dance&type=m3u8
+
+
+#EXTINF:-1,KANAL 26
+http://yerelmedya.tv:1935/kanal26/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,TV 41
+http://yerelmedya.tv:1935/tv41/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,TVDEN
+http://yerelmedya.tv:1935/tvden/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,TVA
+http://yerelmedya.tv:1935/tva/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,38 KENT TV
+http://yerelmedya.tv:1935/38kenttv/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,KANAL 68
+http://yerelmedya.tv:1935/kanal68/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,KANAL V
+http://yerelmedya.tv:1935/kanalv/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,BR TV
+http://yerelmedya.tv:1935/brtv/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,DEHA TV
+http://yerelmedya.tv:1935/dehatv/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,ONCU TV
+http://yerelmedya.tv:1935/oncurtv/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,YASAM TV
+http://yerelmedya.tv:1935/yasamtv/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,METRO TV
+http://yerelmedya.tv:1935/metrortv/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,TON TV
+http://yerelmedya.tv:1935/tontv/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,ER TV
+http://yerelmedya.tv:1935/ertv/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,MERCAN TV
+http://yerelmedya.tv:1935/mercantv/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,ORT TV 
+http://yerelmedya.tv:1935/orttv/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,MAVI KARADENIZ TV
+http://yerelmedya.tv:1935/mavikaradeniz/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,FUL TV
+http://yerelmedya.tv:1935/fultv/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,BURSA TV
+http://yerelmedya.tv:1935/bursatv/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,VIZYON 58 TV
+http://yerelmedya.tv:1935/vizyon58/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,KANAL 23
+http://yerelmedya.tv:1935/kanal23/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,GUNAYDIN TV
+http://yerelmedya.tv:1935/gunaydintv/_definst_/bant1/playlist.m3u8
+
+
+#EXTINF:-1,TARIMTURK TV
+http://yerelmedya.tv:1935/tarimturk/_definst_/bant1/playlist.m3u8
+
+
+
+
+#EXTINF:-1,24 TV FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23396
+
+
+#EXTINF:-1,24 TV HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23395
+
+
+#EXTINF:-1,360 TV HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23394
+
+
+#EXTINF:-1,360TV FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23393
+
+
+#EXTINF:-1,360TV HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23392
+
+
+#EXTINF:-1,ATV FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23391
+
+
+#EXTINF:-1,ATV HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23390
+
+
+#EXTINF:-1,ATVHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23389
+
+
+#EXTINF:-1,beIN BOX OFFICE 1 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23388
+
+
+#EXTINF:-1,beIN BOX OFFICE 2 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23387
+
+
+#EXTINF:-1,beIN BOX OFFICE 3 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23386
+
+
+#EXTINF:-1,beIN HABER FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23385
+
+
+#EXTINF:-1,beIN SPORT 1 FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23384
+
+
+#EXTINF:-1,BEIN SPORT 1 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23383
+
+
+#EXTINF:-1,beIN SPORT 2 FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23382
+
+
+#EXTINF:-1,BEIN SPORT 2 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23381
+
+
+#EXTINF:-1,beIN SPORT 3 FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23380
+
+
+#EXTINF:-1,BEIN SPORT 3 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23379
+
+
+#EXTINF:-1,BEIN SPORT 4 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23378
+
+
+#EXTINF:-1,beIN Sports Haber YDK
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23377
+
+
+#EXTINF:-1,beINHABER FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23376
+
+
+#EXTINF:-1,beINHABER HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23375
+
+
+#EXTINF:-1,BEINMOVIES ACTION
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23374
+
+
+#EXTINF:-1,beINSPORT1HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23373
+
+
+#EXTINF:-1,beINSPORT2HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23372
+
+
+#EXTINF:-1,beINSPORT3HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23371
+
+
+#EXTINF:-1,BLOOMBERG HT FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23370
+
+
+#EXTINF:-1,BLOOMBERG HT HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23369
+
+
+#EXTINF:-1,BLOOMBERGHT HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23368
+
+
+#EXTINF:-1,BOOMERANG HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23367
+
+
+#EXTINF:-1,FILMBOX-HD ADRENALIN
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23366
+
+
+#EXTINF:-1,FILMBOX-HD AILE
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23365
+
+
+#EXTINF:-1,FILMBOX-HD AKSIYON
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23364
+
+
+#EXTINF:-1,FILMBOX-HD AKSIYON 2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23363
+
+
+#EXTINF:-1,FILMBOX-HD ANIMASYON
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23362
+
+
+#EXTINF:-1,FILMBOX-HD BILIMKURGU
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23361
+
+
+#EXTINF:-1,FILMBOX-HD DRAM
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23360
+
+
+#EXTINF:-1,FILMBOX-HD FANTASTIK
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23359
+
+
+#EXTINF:-1,FILMBOX-HD GERMANY
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23358
+
+
+#EXTINF:-1,FILMBOX-HD KOMEDI
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23357
+
+
+#EXTINF:-1,FILMBOX-HD KORKU
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23356
+
+
+#EXTINF:-1,FILMBOX-HD PREMIER
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23355
+
+
+#EXTINF:-1,FILMBOX-HD TURK
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23354
+
+
+#EXTINF:-1,FILMBOX-HD YESILCAM
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23353
+
+
+#EXTINF:-1,FOX TV HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23352
+
+
+#EXTINF:-1,FOXHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23351
+
+
+#EXTINF:-1,FX HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23350
+
+
+#EXTINF:-1,KANAL D FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23349
+
+
+#EXTINF:-1,KANAL D HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23348
+
+
+#EXTINF:-1,KANAL7 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23347
+
+
+#EXTINF:-1,KANAL7FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23346
+
+
+#EXTINF:-1,KANAL7HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23345
+
+
+#EXTINF:-1,KANALDHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23344
+
+
+#EXTINF:-1,KANALDSD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23343
+
+
+#EXTINF:-1,SHOW TV HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23342
+
+
+#EXTINF:-1,SHOWTV FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23341
+
+
+#EXTINF:-1,SHOWTV HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23340
+
+
+#EXTINF:-1,SINEMA TV HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23339
+
+
+#EXTINF:-1,STAR TV HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23338
+
+
+#EXTINF:-1,STARTV FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23337
+
+
+#EXTINF:-1,STARTV HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23336
+
+
+#EXTINF:-1,TAYTV FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23335
+
+
+#EXTINF:-1,TAYTV HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23334
+
+
+#EXTINF:-1,TRT 1 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23333
+
+
+#EXTINF:-1,TRT DIYANET HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23332
+
+
+#EXTINF:-1,TRT HABER HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23331
+
+
+#EXTINF:-1,TRT SPOR HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23330
+
+
+#EXTINF:-1,TRT1 FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23329
+
+
+#EXTINF:-1,TRT1 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23328
+
+
+#EXTINF:-1,TRTSPOR FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23327
+
+
+#EXTINF:-1,TV4 FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23326
+
+
+#EXTINF:-1,TV4 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23325
+
+
+#EXTINF:-1,TV8 FHD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23324
+
+
+#EXTINF:-1,TV8 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23323
+
+
+#EXTINF:-1,TV8.5 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23322
+
+
+#EXTINF:-1,beIN BOX OFFICE 1 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23321
+
+
+#EXTINF:-1,beIN BOX OFFICE 2 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23320
+
+
+#EXTINF:-1,beIN BOX OFFICE 3 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23319
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
